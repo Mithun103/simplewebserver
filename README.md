@@ -52,9 +52,9 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### client side
-![Alt Text](./image/client.png)
+![Alt Text](./image/client.PNG)
 ### server side
-![Alt Text](./image/server.png)
+![Alt Text](./image/server.PNG)
 
 ## RESULT:
 is developed to display a top five web application developement frameworks
