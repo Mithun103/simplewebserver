@@ -18,7 +18,9 @@ Testing the webserver
 
 
 ## OUTPUT:
+### client side
 ![Alt Text](./image/client.png)
+### server side
 ![Alt Text](./image/server.png)
 
 ## RESULT:
