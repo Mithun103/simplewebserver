@@ -57,4 +57,4 @@ httpd.serve_forever()
 ![Alt Text](./image/server.PNG)
 
 ## RESULT:
-is developed to display a top five web application developement frameworks
+it is developed to display a top five web application developement frameworks
