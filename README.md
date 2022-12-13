@@ -18,8 +18,8 @@ Testing the webserver
 
 
 ## OUTPUT:
-![Alt Text](/image:/client.png)
-![Alt Text](/image:/server.png)
+![Alt Text](./image/client.png)
+![Alt Text](./image/server.png)
 
 ## RESULT:
 is developed to display a top five web application developement frameworks
