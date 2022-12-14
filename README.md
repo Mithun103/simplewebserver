@@ -52,12 +52,9 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### server side
-![Alt Text](./image/client.PNG)
-
 ![server](https://user-images.githubusercontent.com/118344695/207496374-3a6d3b92-7197-41fe-a891-a4e0986d775c.png)
 
 ### client side
-![Alt Text](./image/server.PNG)
 ![client](https://user-images.githubusercontent.com/118344695/207496607-0fab0b0d-8f6d-4f31-a4fb-f323355fd0f5.png)
 
 
